@@ -5,7 +5,7 @@ It's a project I built entirely from scratch using HTML, CSS, and JavaScript, de
 🦾Motivation & Problem Solved
 The primary motivation behind this project was to serve as a hands-on challenge to apply and solidify the foundational web development concepts learned during my self-directed study. Building it from the ground up was a significant undertaking, but a deeply rewarding one that allowed me to solve real-world coding problems.
 
-✅Through this process, I gained a robust understanding of:
+✅Through this process, I understand.
 How HTML, CSS, and JavaScript interact cohesively to create a complete and dynamic web experience.
 Practical Git and GitHub for version control, collaboration, and project management.
 The essential steps involved in deploying a website to make it accessible online.
