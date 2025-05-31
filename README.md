@@ -25,4 +25,4 @@ This portfolio website is a responsive, single-page application designed for eas
 As this is a personal portfolio showcasing my specific learning path, direct code contributions are not typically expected. However, I highly value feedback and suggestions!
 
 If you find any bugs or have ideas for improvements, please feel free to open an issue in this repository.
-For professional inquiries or to connect, please reach out to me on 👉www.linkedin.com/in/mariaescobar4
+For professional inquiries or to connect, please reach out to me on 👉 https://www.linkedin.com/in/mariaescobar4/
