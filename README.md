@@ -14,7 +14,7 @@ While I'm continuously learning and currently just starting my journey with Reac
 
  🚀Quick Start
 To view the live website or explore the code:
-Live Demo: Visit my deployed portfolio here:https://chedevopsmbaapo.info/🌐
+Live Demo: Visit my deployed portfolio https://chedevopsmbaapo.info/🌐
 Code:💻
 🔗Clone this repository: git clone https://github.com/amelesco/Portfolio.Web.git
 
